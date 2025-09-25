@@ -8,3 +8,7 @@ I'm looking for an internship to complete my master in game design and maangemen
 
 ## 🎯 My goals
 It's over my scholarship comes to an end and to confirm my master degree in game design, I need to find a 6 month internship. That's why this year 2025-2026 my goal is to release a brand new game called Arboreal Hotel with a team of 5 other students to reach maybe to YOU who is reading this !
+
+## 🕹️ The games I worked on
+[<img width="512" height="95" alt="BarrelRollBanner" src="https://github.com/user-attachments/assets/c7e317e2-fb04-44d4-9648-b16d18144f9f" />](https://store.steampowered.com/app/3860590/Barrel_Roll/)
+[<img width="512" height="95" alt="UnlogBanner" src="https://github.com/user-attachments/assets/5ab522b2-a8f7-49ee-a2ae-ff77b0e95fe9" />](https://store.steampowered.com/app/3570210/Unlog/)
