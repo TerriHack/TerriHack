@@ -3,7 +3,7 @@
 [<img width="128" height="62" alt="LinkedinLogoGitHub" src="https://github.com/user-attachments/assets/4239e9ba-0fca-4810-a575-462abd9c2c8c" />](https://www.linkedin.com/in/antoine-dubuc-terri)
 
 ## 🙂 About me
-I'm a french game designer of 24 years that likes to prototype from time to time ! I know how to prototype fast and test my designs in engine wether it's c# or blueprint and I had the opportunity to work on a few released game like [Unlog](https://store.steampowered.com/app/3570210/Unlog/) and [Barrel Roll](https://store.steampowered.com/app/3860590/Barrel_Roll/)
+I'm a 24 years old french game designer who likes to prototype from time to time ! I know how to prototype fast and test my designs in engine wether it's c# or blueprint and I had the opportunity to work on a few released game like [Unlog](https://store.steampowered.com/app/3570210/Unlog/) and [Barrel Roll](https://store.steampowered.com/app/3860590/Barrel_Roll/)
 I'm looking for a 6 month internship to complete my master in game design and maangement.
 
 ## 🎯 My goals
